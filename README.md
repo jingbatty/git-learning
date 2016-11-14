@@ -10,3 +10,8 @@
 ## 记录
 
 - [同步fork仓库的最新提交](//github.com/humingx/git-learning/blob/master/articles/fork-sync.md)
+
+
+## 更新记录
+
+- 11-14 中传
